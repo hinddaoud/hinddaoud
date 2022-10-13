@@ -1,5 +1,8 @@
 ### Hi I`m Hind Daoud 👋
 
+- 📫 How to reach me:
+[Daring Fireball]: http://daringfireball.net/
+
 <!--
 **hinddaoud/hinddaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
