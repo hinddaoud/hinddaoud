@@ -1,6 +1,5 @@
-### Hi I`m Hind Daoud 👋 <div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/109424272/195710977-0ecdc893-378e-4084-bcbe-75122f8bbe0e.png" width="50"/>
-</div>
+### Hi I`m Hind Daoud 👋 
+
 
 
 
