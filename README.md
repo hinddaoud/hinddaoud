@@ -1,24 +1,43 @@
-### Hi I`m Hind Daoud 👋
-
-- 📫 How to reach me:
-[Daring Fireball]: http://daringfireball.net/
-
+### Hi I`m Hind Daoud 👋 <div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/109424272/195710977-0ecdc893-378e-4084-bcbe-75122f8bbe0e.png" width="50"/>
+</div>
 
 
 
 
 ---
+- 📫 How to reach me:
+
+
+
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/109424272/195712996-53bf6e40-ff5b-4253-b127-8a170782da87.png" width="100"/>
+</div>
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
+<!-- 
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
 <br/>
-[![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)]
+[![www.facebook.com](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)]
 
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)]
----
+--- -->
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
----
+
 <div>
   <img src="https://user-images.githubusercontent.com/109424272/195705015-8241898e-f9b8-48d9-bc88-c4aca8642261.png"  title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -38,6 +57,32 @@
 </div>
 
 ---
+<!-- 
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div> -->
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 
