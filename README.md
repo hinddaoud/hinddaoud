@@ -9,10 +9,12 @@
 
 
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/109424272/195712996-53bf6e40-ff5b-4253-b127-8a170782da87.png" width="100"/>
-</div>
+</div> -->
 <div id="badges">
+  <img src="https://user-images.githubusercontent.com/109424272/195712996-53bf6e40-ff5b-4253-b127-8a170782da87.png" width="100"/>
+  <br>
   <a href="https://www.linkedin.com/in/hind-daoud/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
