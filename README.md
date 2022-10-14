@@ -19,7 +19,7 @@
   <a href="mailto:hhinddaoud@gmail.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="mailto:hhinddaoud@gmail.com">
     <img src="https://user-images.githubusercontent.com/109424272/195886311-61b06636-e508-466e-a0a7-0d5c900186c9.png" height="30" alt="Gmail"/>
   </a>
 </div>
