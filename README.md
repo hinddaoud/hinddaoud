@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/109424272/195712996-53bf6e40-ff5b-4253-b127-8a170782da87.png" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/hind-daoud/">
+  <a href="https://www.linkedin.com/in/hind-daoud/"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
